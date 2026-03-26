@@ -1,8 +1,13 @@
 Hi, I am Soubhagya Saxena
+
 First Year B.Tech Student
+
 Reg No: 25BAI10757
+
 Branch: Computer Science (AI&ML)
+
 College: Vellore Institute of Technology, Bhopal
+
 I am a passionate student interested in learning new technologies and building my skills in programming and digital tools.
 
 Learn programming and problem-solving
