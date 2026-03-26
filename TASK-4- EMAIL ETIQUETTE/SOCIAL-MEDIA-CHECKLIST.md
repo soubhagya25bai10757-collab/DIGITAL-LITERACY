@@ -3,7 +3,8 @@ Social Media Checklist — Do's & Don'ts
 A quick reference guide for responsible, professional, and safe social media use.
 
 
-DO's
+# DO's
+
 Privacy & Security
 
  Use strong, unique passwords for each platform
@@ -46,7 +47,8 @@ Professional Presence
  Use platforms like GitHub to showcase your work
 
 
-DON'Ts
+# DON'Ts
+
 Privacy & Security
 
  Never share your passwords with anyone
